@@ -1,0 +1,5 @@
+Create a standalone HTML file that uses Babylon.js for 3D rendering and parsing, and Next.js to serve everything entirely client-side on localhost. The file should include:
+
+1. A 3D-looking ball positioned somewhere within a 3D space that represents a real-world location.
+2. A 3D map, either referencing or fully integrating predefined Google Maps data.
+3. A futuristic, blur-styled GUI with dozens to hundreds of options to adjust the ball's 'reactiveness' (e.g., responsiveness to user input, physics, or environmental changes).
